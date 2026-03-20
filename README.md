@@ -12,22 +12,19 @@ The full project (data + code + analysis) is contained in a single notebook file
 - Feature engineering
 - Model training:
   - Logistic Regression
-  - KNN
   - Random Forest
-  - Gradient Boosting
+  - Support Vector Machine
+  - Multilayer Perceptron
+  - Light Gradient Boosting Machines
 - Model evaluation using accuracy, precision, recall, and ROC-AUC
+- Permutation Feature Importance
+- Shap Evaluation: Tuned Light GBM 
 
 ## Results
 - Best model: Logistic Regression
-- ROC-AUC: ~0.91
 
 ## Collaboration
 This project was developed as part of a group project.
-
-My contributions:
-- Data preprocessing
-- Model training
-- Performance evaluation
 
 ## Tools
 - Python

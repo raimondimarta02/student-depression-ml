@@ -27,8 +27,7 @@ The full project (data + code + analysis) is contained in a single notebook file
 This project was developed as part of a group project.
 
 ## Authors 
-Gaia Platè 
-Marta Raimondi
+Gaia Platè, Marta Raimondi
 
 ## Tools
 - Python
